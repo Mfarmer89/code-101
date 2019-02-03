@@ -1,0 +1,53 @@
+body {
+    background-color: maroon;
+    color: yellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+/*.flag {
+    float: right;
+} */
+
+.logo{
+    float: right;
+} */
+
+
+
+.holder {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kraigg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* .flag {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+/* .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* img {
+    border-radius: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
